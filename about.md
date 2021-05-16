@@ -1,29 +1,18 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hi! My name is Daniel Maloney and I am a Computer Science/Math/Data Science student at the University of Wisconsin-Madison. This site/blog is part resume, part blog about my soccer analytics hobby that hopefully one day I will turn into a career.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+If you'd like to reach me, you can find me on linkedin or you can email me at dpcmaloney@gmail.com
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## Education
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* UW-Madison, 2018-2022
+* New Trier High School
 
-## Setup
+## Work Experience
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+* Data Analytics Intern at Discover Financial Services in the Summer of 2021
