@@ -2,7 +2,7 @@
 title:               Daniel Maloney
 tagline:             'A CS/Math/Data-Science student at UW-Madison'
 description:         'A blog of ramblings about soccer analytics, among other things.'
-url:                 dpmaloney.com
+url:                 https://dpmaloney.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
